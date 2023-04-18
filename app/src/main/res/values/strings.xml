@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">geoquiz</string>
+    <string name="question_1">Kathmandu is the capital of Nepal.</string>
+    <string name="question_2">Pacific ocean is the largest ocean.</string>
+    <string name="question_3">Ram Baran Yadav was the first president of Nepal.</string>
+    <string name="question_4">Australia is bigger than Russia.</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_cheat">Cheat</string>
+    <string name="cheat_qus">Are you sure ??</string>
+    <string name="show_ans">Show Answer</string>
+    <string name="btn_previous">Previous</string>
+    <string name="correct_msg">Correct Answer!</string>
+    <string name="incorrect_msg">Incorrect Answer! Please try again.</string>
+    <string name="phoneBtn">Call</string>
+    <string name="callBtn">Phone A Friend!</string>
+
+</resources>
